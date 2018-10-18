@@ -1,0 +1,36 @@
+{
+    "short_name": "MAGES",
+    "name": "MAGES Michał Jendraszczyk",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#fff",
+    "theme_color": "#fff",
+    "icons": [
+        {
+            "src": "/img/mj48x48.png",
+            "types": "image/png",
+            "sizes": "48x48"
+        },
+        {
+            "src": "/img/mj96x96.png",
+            "types": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "/img/mj128x128.png",
+            "types": "image/png",
+            "sizes": "128x128"
+        },
+        {
+            "src": "/img/mj192x192.png",
+            "types": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/img/mj512x512.png",
+            "types": "image/png",
+            "sizes": "600x600"
+        }
+    ],
+    "start_url": "./?urmsource=homescreen"
+}
